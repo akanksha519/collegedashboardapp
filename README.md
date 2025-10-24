@@ -67,7 +67,6 @@ npm install
 3. Start the frontend:
 npm start
 
-4. Open http://localhost:3000 in your browser.
 
 ### Project Structure
 
