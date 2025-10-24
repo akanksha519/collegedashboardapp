@@ -94,6 +94,8 @@ collegedashboardapp/
 │  └─ ...
 └─ README.md
 
+### Live Demo
+https://collegedashboardapp.vercel.app/
 
 Author
 Akanksha Are
